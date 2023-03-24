@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+      .font_a { font-family: "Noto Serif TC" }
+  </style>
+</head>
+
+<body>
 <svg 
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -40,27 +52,27 @@
   <!-- Your beautiful SVG code will end here -->
 
   <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
+  <text x="50.4" y="53.9" style="font-size:3pt;" class="font_a">之</text>
   <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="58.733" style="font-size:3pt;">遂</text>
-  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="63.566" style="font-size:3pt;">良</text>
+  <text x="50.4" y="58.733" style="font-size:3pt;" class="font_a">回</text>
+  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1"  fill="#67e267"/>
+  <text x="50.4" y="63.566" style="font-size:3pt;" class="font_a" fill="white">雪</text>
 
 
   <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue">資</text>
+  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue" class="font_a">若</text>
   <rect x="54.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue">工</text>
+  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue" class="font_a">流</text>
   <rect x="54.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue">所</text>
+  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue" class="font_a">風</text>
 
 
-  <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="53.9" style="font-size:3pt;">北</text>
+  <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="#67e267"/>
+  <text x="60.066" y="53.9" style="font-size:3pt;" class="font_a" fill="white">飄</text>
   <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
+  <text x="60.066" y="58.733" style="font-size:3pt;" class="font_a">颻</text>
   <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
+  <text x="60.066" y="63.566" style="font-size:3pt;" class="font_a">兮</text>
 
 
 
@@ -78,4 +90,5 @@
 </svg>
 
 <!-- 14.761 9.662 7.381 5.535 4.833 3.69 2.768 -->
-								
+</body>
+</html>
